@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello World! I'm Abdirahman Kooshin
+# 👋 Hello World! I'm AbdirahmanCeimoy
 
 ### 🚀 Full Stack Developer | CS Student | Tech Enthusiast
 
@@ -11,8 +11,7 @@
 ---
 About Me
 ---
-a passionate **Full Stack Developer** and **4th-year Computer Science student** at **Jamhuriyo University of Science and Technology**.  
-I specialize in building scalable web applications using the **MERN stack**, **C# with SQL Server**, and **Python (Django & FastAPI)**.  
+Innovative Full Stack Developer turning ideas into interactive, high-performance web applications and cross-platform mobile apps using Flutter.
 
 🌱 Currently learning **Django** and **FastAPI**, with a strong foundation in **Python** programming.  
 💡 I enjoy crafting clean UI/UX designs, designing REST APIs, and solving real-world problems through code.  
