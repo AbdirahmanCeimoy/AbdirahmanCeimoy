@@ -5,8 +5,8 @@
 ### 🚀 Full-Stack+Web+Developer | Computer+Science+Learner | Technology+Passionate
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=💻 Full-Stack+Web+Developer | ⚡ Building+Scalable+Web+Applications | 🎨 Crafting+Clean+UI%2FUX+Designs
-" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=4A90E2&center=true&vCenter=true&width=700&lines=💻+Full-Stack+Web+Developer;⚡+Building+Scalable+Web+Applications;🎨+Crafting+Clean+UI%2FUX+Designs" alt="Typing SVG" />
+
 
 </div>
 
@@ -36,10 +36,10 @@ Innovative Full Stack Developer turning ideas into interactive, high-performance
   <a href="https://abdirahmankooshin.vercel.app/" target="_blank">
     <img src="https://raw.githubusercontent.com/a4koshin/assets/main/koosin.jpeg" alt="My Logo" width="50" height="50" style="border-radius:50%;" />
   </a>
-  <a href="mailto:mankajr11@gmail.com" target="_blank">
+  <a href="mailto:Apdirahmanbashirapdullahi@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/abdirahman-kooshin-451b45365" target="_blank">
+  <a href="https://www.linkedin.com/in/abdirahman-bashiir-abdullahi-18800838b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
 </div>
