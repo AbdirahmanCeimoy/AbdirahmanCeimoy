@@ -15,14 +15,14 @@ About Me
 ---
 Innovative Full Stack Developer turning ideas into interactive, high-performance web applications and cross-platform mobile apps using Flutter.
 
-💡 I enjoy crafting clean UI/UX designs, designing REST APIs, and solving real-world problems through code.  
-🗄️ Databases I work with: **MongoDB**, **PostgreSQL**, **Php&mysql**, and **SQL Server**.  
-
+💡 I build clean UI/UX designs, develop RESTful APIs, and solve real-world problems using code in my daily projects.  
+🗄️ I actively work with MongoDB, PostgreSQL, PHP & MySQL, and SQL Server for data-driven applications.
 
 ---
 
 ### 🛠️ **Tech Stack & Tools**
-[![SkillIcons](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,py,django,fastapi,flutter,cs,docker,tailwind,,mongodb,postgresql,Php&mysql,java,spring,figma,vscode)](https://skillicons.dev)
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,py,django,fastapi,flutter,cs,docker,tailwind,bootstrap,mongodb,postgresql,mysql,php,java,spring,figma,vscode,git,github,discord,anaconda)](https://skillicons.dev)
+
 
 ---
 
