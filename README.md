@@ -2,9 +2,11 @@
 
 # 👋 Hello World! I'm AbdirahmanCeimoy
 
-### 🚀 Full Stack Developer | CS Student | Tech Enthusiast
+### 🚀 Full-Stack+Web+Developer | Computer+Science+Learner | Technology+Passionate
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Applications;Crafting+Clean+UI%2FUX+Designs;Solving+Real-World+Problems+Through+Code" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=4A90E2&center=true&vCenter=true&width=500&lines=💻 Full-Stack+Web+Developer | ⚡ Building+Scalable+Web+Applications | 🎨 Crafting+Clean+UI%2FUX+Designs
+" alt="Typing SVG" />
 
 </div>
 
@@ -13,15 +15,14 @@ About Me
 ---
 Innovative Full Stack Developer turning ideas into interactive, high-performance web applications and cross-platform mobile apps using Flutter.
 
-🌱 Currently learning **Django** and **FastAPI**, with a strong foundation in **Python** programming.  
 💡 I enjoy crafting clean UI/UX designs, designing REST APIs, and solving real-world problems through code.  
-🗄️ Databases I work with: **MongoDB**, **PostgreSQL**, **MySQL**, and **SQL Server**.  
+🗄️ Databases I work with: **MongoDB**, **PostgreSQL**, **Php&mysql**, and **SQL Server**.  
 
 
 ---
 
 ### 🛠️ **Tech Stack & Tools**
-[![SkillIcons](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,py,django,fastapi,flutter,cs,docker,tailwind,supabase,mongodb,postgresql,mysql,java,spring,figma,vscode)](https://skillicons.dev)
+[![SkillIcons](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,py,django,fastapi,flutter,cs,docker,tailwind,,mongodb,postgresql,Php&mysql,java,spring,figma,vscode)](https://skillicons.dev)
 
 ---
 
