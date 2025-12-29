@@ -33,9 +33,9 @@ Innovative Full Stack Developer turning ideas into interactive, high-performance
 
 ### 📞 **Connect With Me**
 <div align="left">
-  <a href="https://my-portfolio-eight-beta-94.vercel.app/" target="_blank">
+  <!-- <a href="https://my-portfolio-eight-beta-94.vercel.app/" target="_blank">
     <img src="https://raw.githubusercontent.com/a4koshin/assets/main/koosin.jpeg" alt="My Logo" width="50" height="50" style="border-radius:50%;" />
-  </a>
+  </a> -->
   <a href="mailto:Apdirahmanbashirapdullahi@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
